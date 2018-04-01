@@ -50,7 +50,8 @@ Total size of USB = 3.7 GB
 .ini =  1
 .py =  1
 .rar =  2
-.jpg =  1
+.jpg = 1
+
 ------------------------------------------------------------------------------------
 Developer:
 This software has been developed by Syed Ahsan Ahmed:
