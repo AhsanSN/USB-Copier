@@ -1,28 +1,14 @@
 # USB Copier
-Installation:
 
-1) Run 'Licence.exe' to install your licence. You need to have an active
-	internet connection for this step.
-
-2) Enter your 'Activation key' there. You will be sent to a web link where your 
-	'Activation key' will be verified, and you will be given a 'Confirmation Key'.
-	Enter the 'Confirmation Key' and your licence will be activated.
-
-3) Now can you run the program without any problem (even without internet).
-------------------------------------------------------------------------------------
 How to use:
 
 1) All the copied data will being stored in the directory,
 	C:\usb storage\Console
-------------------------------------------------------------------------------------
-Copyright Instructions:
 
-1) This Licence key is valid for only one device, and will not work on other devices 
-	if it has been used.
 ------------------------------------------------------------------------------------
 About the software:
 
-This is a paid software that allows you to peak inside a USB in a second. When your 
+This is a free software that allows you to peak inside a USB in a second. When your 
 	friend inserts their USB in your computer, you simply have to run this
 	program. This will fetch all the directories and sub-directories in that USB
 	and save their list on your computer so that you can have a have a look at 
@@ -67,10 +53,10 @@ Total size of USB = 3.7 GB
 .jpg =  1
 ------------------------------------------------------------------------------------
 Developer:
+This software has been developed by Syed Ahsan Ahmed:
 
-This software has been developed by Syed Ahsan Ahmed.
-Email: snahmed1998@gmail.com
+Email: snahmed1998@gmail.com OR sa02908@st.habib.edu.pk
+
 ------------------------------------------------------------------------------------
 Terms and Conditions:
-
 The developer will not be responsible if this software is used negatively.
