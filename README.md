@@ -36,11 +36,16 @@ PS. This software doesnt fetch any files. It just fetches their names along with
 
 Example:
 
-E:\Ahsan Ahmed\Documents\2nd semester transcript.pdf \n
-E:\Ahsan Ahmed\Documents\Add Drop Form.pdf \n
+E:\Ahsan Ahmed\Documents\2nd semester transcript.pdf
+
+E:\Ahsan Ahmed\Documents\Add Drop Form.pdf
+
 E:\Ahsan Ahmed\Documents\Book1.xlsx
+
 E:\Ahsan Ahmed\Documents\desktop.ini
+
 E:\Ahsan Ahmed\Documents\ENM homework 2.pdf
+
 E:\Ahsan Ahmed\Documents\Know Your height in 3 steps.py
 E:\Ahsan Ahmed\Documents\PAMSA New Course Pack - Final.pdf
 E:\Ahsan Ahmed\Documents\public.rar
