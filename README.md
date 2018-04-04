@@ -2,10 +2,8 @@
 
 How to use:
 
-1) All the copied data will being stored in the directory,
-	C:\usb storage\Console
+Run the software when the USB is inserted. The program will run in the background and all the copied data will being stored in the directory, C:\usb storage\Console
 
-------------------------------------------------------------------------------------
 About the software:
 
 This is a free software that allows you to peak inside a USB in a second. When your 
