@@ -1,10 +1,10 @@
 # USB Copier
 
-How to use:
+## How to use:
 
 Run the software when the USB is inserted. The program will run in the background and all the copied data will being stored in the directory, C:\usb storage\Console
 
-About the software:
+## About the software:
 
 This is a free software that allows you to peak inside a USB in a second. When your 
 	friend inserts their USB in your computer, you simply have to run this
@@ -51,11 +51,11 @@ Total size of USB = 3.7 GB
 .jpg = 1
 
 ------------------------------------------------------------------------------------
-Developer:
+## Developer:
 This software has been developed by Syed Ahsan Ahmed:
 
 Email: snahmed1998@gmail.com OR sa02908@st.habib.edu.pk
 
 ------------------------------------------------------------------------------------
-Terms and Conditions:
+## Terms and Conditions:
 The developer will not be responsible if this software is used negatively.
